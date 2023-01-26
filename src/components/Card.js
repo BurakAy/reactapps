@@ -1,10 +1,8 @@
 import "../styles/Card.css";
-import logo from "../logo.svg";
 
 const Card = () => {
   return (
     <div className="card-container">
-      <img alt="logo" className="app-logo" src={logo} />
       <div>
         <h1>Fun facts about React</h1>
         <ul>

@@ -1,12 +1,12 @@
 import "./App.css";
+import logo from "./logo.svg";
 
 function App() {
   return (
     <nav className="header">
-      <h1>React Facts</h1>
+      <img src={logo} alt="logo" className="app-logo" />
       <ul>
         <li>About</li>
-        <li>Pricing</li>
         <li>Contact</li>
       </ul>
     </nav>
