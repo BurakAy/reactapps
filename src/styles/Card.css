@@ -1,0 +1,12 @@
+.card-container {
+    margin: 20px;
+}
+
+.card-container ul li {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.app-logo {
+    width: 100px;
+}

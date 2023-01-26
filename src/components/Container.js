@@ -4,7 +4,7 @@ const Container = () => {
   return (
     <div className="container-wrapper">
       <div>
-        <h2>Sale</h2>
+        <h3>Sale</h3>
       </div>
       <div>
         <img

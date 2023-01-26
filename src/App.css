@@ -1,19 +1,19 @@
-nav,
-h1,
-ul {
+.header,
+.header h1,
+.header ul {
   width: 100%;
   display: flex;
 }
 
-h1 {
+.header h1 {
   padding-left: 10px;
 }
 
-ul {
+.header ul {
   justify-content: space-evenly;
   align-items: center;
 }
 
-ul li {
+.header ul li {
   list-style-type: none;
 }
