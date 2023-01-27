@@ -3,15 +3,12 @@
 .header ul {
   width: 100%;
   display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
 
 .header h1 {
   padding-left: 10px;
-}
-
-.header ul {
-  justify-content: space-evenly;
-  align-items: center;
 }
 
 .header ul li {

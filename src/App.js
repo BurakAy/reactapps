@@ -1,7 +1,7 @@
 import "./App.css";
 import logo from "./logo.svg";
 
-function App() {
+const App = () => {
   return (
     <header>
       <nav className="header">
@@ -13,6 +13,6 @@ function App() {
       </nav>
     </header>
   );
-}
+};
 
 export default App;
